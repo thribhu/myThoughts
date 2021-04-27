@@ -1,0 +1,29 @@
+body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  margin: 10px;
+}
+
+#avatar-name {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 48px;
+  color: #ff6a1a;
+}
+
+.avatar {
+  height: 80px;
+  width: 80px;
+  background: transparent;
+  z-index: 2;
+}
+
+a {
+  -webkit-text-decoration-style: none;
+          text-decoration-style: none;
+}
+/*# sourceMappingURL=styles.css.map */
