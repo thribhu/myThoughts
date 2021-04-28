@@ -78,3 +78,44 @@ h1 {
     border: 2px solid #636c77;
     border-radius: 5px;
 }
+.author_name h1{
+    color: #727a7c;
+}
+#short_name {
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: #112222;
+}
+.author_name {
+    margin-left: 3rem;
+}
+.description {
+    margin: auto 50px;
+}
+
+.images-card {
+    margin: 1rem;
+    border: none;
+    border-radius: 5px;
+    border-left: solid 3px;
+    border-color: #e4e0e0;
+    flex: 1;
+    max-width: 300px;
+}
+.img-card {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.description {
+    flex: 2;
+}
+.description p {
+    max-width: 50%;
+}
+
+.p-10 {
+    padding: 10px;
+}

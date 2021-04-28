@@ -5,3 +5,13 @@ USED FOR NAME:
     <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet"> 
 
     font-family: 'Architects Daughter', cursive;
+
+
+VS CODE EXTENSIONS:
+
+Lorem ipsum
+css peak
+auto close tags
+auto complete tags
+HTML Formatter
+ESLINT 
