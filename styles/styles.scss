@@ -24,7 +24,16 @@ h1 {
     background-color: $p_primary_color !important;
 }
 .navbar-brand {
-    color: $p_title_color !important;
+    color: $p_primary_color !important;
+}
+#nav_toggle_switch {
+    background: none !important;
+    border: none !important;
+    color: black;
+    font-size: 1.2rem;
+}
+.nav-item {
+    color: white !important;
 }
 #thought {
     font-family: 'Poppins', sans-serif;
