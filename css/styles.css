@@ -25,7 +25,7 @@ h1 {
 }
 
 .bg-dark {
-  background-color: #6c17a0 !important;
+  background-color: #112222 !important;
 }
 
 .navbar-brand {
@@ -179,5 +179,9 @@ h1 {
 
 .text_link:hover {
   color: #040008;
+}
+
+.form-check-label {
+  font-size: 0.5rem !important;
 }
 /*# sourceMappingURL=styles.css.map */
